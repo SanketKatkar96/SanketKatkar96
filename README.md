@@ -1,14 +1,28 @@
-## Hi there 👋
+**SanketKatkar96/SanketKatkar96**  
+# Hi there 👋, I'm Sanket Kisan Katkar
 
-**SanketKatkar96/SanketKatkar96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Passionate about software development and problem-solving.
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Python
+- JavaScript
+- HTML & CSS
+- React
+- Node.js
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🌱 Currently Learning
+- TypeScript
+- Cloud Computing
+
+## 📂 Featured Projects
+- 📌 Portfolio Website
+- 📌 Task Manager App
+- 📌 Weather Dashboard
+- 📌 REST API
+
+## 📫 Connect with me
+- LinkedIn: https://linkedin.com/in/
+- Email: sanketkatkar001@gmail.com
+
+⭐ Thanks for visiting my profile!
