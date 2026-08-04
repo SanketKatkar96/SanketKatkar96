@@ -4,22 +4,13 @@
 💻 Passionate about software development and problem-solving.
 
 ## 🚀 Skills
-- Python
-- JavaScript
-- HTML & CSS
-- React
-- Node.js
-- Git & GitHub
-
+- C#
+- C
+- C++
+ 
 ## 🌱 Currently Learning
 - TypeScript
 - Cloud Computing
-
-## 📂 Featured Projects
-- 📌 Portfolio Website
-- 📌 Task Manager App
-- 📌 Weather Dashboard
-- 📌 REST API
 
 ## 📫 Connect with me
 - LinkedIn: https://linkedin.com/in/
