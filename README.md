@@ -1,4 +1,5 @@
-**SanketKatkar96/SanketKatkar96**  
+**SanketKatkar96/SanketKatkar96** 
+
 # Hi there 👋, I'm Sanket Kisan Katkar
 
 💻 Passionate about software development and problem-solving.
@@ -18,24 +19,5 @@
 - LinkedIn: https://linkedin.com/in/
 - Email: sanketkatkar001@gmail.com
 - Insta : sanket_katkar__96k
-
-🛠 Technical Skills
-💻 Programming Languages
-     
-
-🚀 Frameworks
-   
-
-🗄️ Databases
  
-
-🛠️ Tools
-   
-
-📊 GitHub Stats
-GitHub Stats
-
-💻 Most Used Language
-Top Languages
-
 ⭐ Thanks for visiting my profile!
