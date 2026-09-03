@@ -1,4 +1,4 @@
-SanketKatkar96 :- 
+Sanket Katkar96 :- 
 
 # Hi there 👋, I'm Sanket Kisan Katkar
 
