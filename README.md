@@ -18,11 +18,11 @@ Sanket Katkar96 :-
 ## 📫 Connect with me
 - LinkedIn: https://linkedin.com/in/
 - 
-- Email: sanketkatkar001@gmail.com
+- Email: sanketkatkar001@gmail.com.
 - 
-- Insta : sanket_katkar__96k
+- Insta : sanket_katkar__96k .
 
-- ⭐ Thanks for visiting my profile!
+- ⭐ Thanks for visiting my profile !
 
 
 
