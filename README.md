@@ -22,9 +22,7 @@ Sanket Katkar96 :-
 - 
 - Insta : sanket_katkar__96k
 
-- 
- 
-⭐ Thanks for visiting my profile!
+- ⭐ Thanks for visiting my profile!
 
 
 
