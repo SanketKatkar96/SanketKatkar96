@@ -2,7 +2,7 @@ Sanket Katkar96 :-
 
 # Hi there 👋, I'm Sanket Kisan Katkar.
 
-💻 Passionate about software development and problem-solving.
+💻 Passionate about software development and problem-solving
 
 ## 🚀 Skills
 - C#
