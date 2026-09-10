@@ -1,6 +1,6 @@
 Sanket Katkar96 :- 
 
-# Hi there 👋, I'm Sanket Kisan Katkar.
+# Hi there 👋, I'm Sanket Kisan Katkar
 
 💻 Passionate about software development and problem-solving
 
@@ -20,7 +20,7 @@ Sanket Katkar96 :-
 - 
 - Email: sanketkatkar001@gmail.com.
 - 
-- Insta : sanket_katkar__96k .
+- Insta : sanket_katkar__96k 
 
 - ⭐ Thanks for visiting my profile !
 
