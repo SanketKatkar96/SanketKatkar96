@@ -2,7 +2,7 @@
 
 💻 **Passionate Software Developer | Problem Solver**
 
-I’m a passionate learner interested in **software development, programming, and problem-solving**.
+I’m a passionate learner interested in **software development, programming, and problem-solving**
 Currently improving my programming skills and exploring modern technologies.
 
 ## 🚀 Skills
@@ -38,8 +38,6 @@ Currently improving my programming skills and exploring modern technologies.
 
 ⭐ I’m continuously learning, building projects, and improving my coding skills.
 
-### 🚀 Keep Learning
-• Keep Coding
-• Keep Growing
+### 🚀 Keep Learning• Keep Coding• Keep Growing
 
 ⭐ **Thanks for visiting my profile!**
