@@ -38,6 +38,8 @@ Currently improving my programming skills and exploring modern technologies.
 
 ⭐ I’m continuously learning, building projects, and improving my coding skills.
 
-### 🚀 Keep Learning • Keep Coding • Keep Growing
+### 🚀 Keep Learning
+• Keep Coding
+• Keep Growing
 
 ⭐ **Thanks for visiting my profile!**
