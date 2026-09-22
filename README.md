@@ -36,7 +36,7 @@ Currently improving my programming skills and exploring modern technologies.
 
 ## 📊 GitHub
 
-⭐ I’m continuously learning, building projects, and improving my coding skills.
+⭐ I’m continuously learning, building projects, and improving my coding skills
 
 ### 🚀 Keep Learning• Keep Coding• Keep Growing
 
