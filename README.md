@@ -1,6 +1,6 @@
 ##👋 Hi, I'm Sanket Kisan Katkar
 
-💻 **Passionate Software Developer | Problem Solver**.
+💻 **Passionate Software Developer | Problem Solver**
 
 I’m a passionate learner interested in **software development, programming, and problem-solving**
 Currently improving my programming skills and exploring modern technologies.
