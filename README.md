@@ -3,7 +3,7 @@
 💻 **Passionate Software Developer | Problem Solver**
 
 I’m a passionate learner interested in **software development, programming, and problem-solving**
-Currently improving my programming skills and exploring modern technologies.
+Currently improving my programming skills and exploring modern technologies
 
 ## 🚀 Skills
 
@@ -12,6 +12,7 @@ Currently improving my programming skills and exploring modern technologies.
 * 🟣 C++
 * 🐍 Python
 * 🎨 CSS
+  
 
 ## 🌱 Currently Learning
 
@@ -28,7 +29,7 @@ Currently improving my programming skills and exploring modern technologies.
 * Database Management
 * Learning New Technologies
 
-## 📫 Connect With Me
+## 📫 Connect With Me :-
 
 * 💼 LinkedIn: https://linkedin.com/in/
 * 📧 Email: [sanketkatkar001@gmail.com] 
