@@ -31,7 +31,7 @@ Currently improving my programming skills and exploring modern technologies
 
 ## 📫 Connect With Me :-
 
-* 💼 LinkedIn: www.linkedin.com/in/sanket-katkar 96
+* 💼 LinkedIn: www.linkedin.com/in/sanket-katkar96
 * 📧 Email: [sanketkatkar001@gmail.com] 
 * 📸 Instagram: @sanket_katkar__96k
 
