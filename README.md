@@ -40,7 +40,3 @@ Currently improving my programming skills and exploring modern technologies.
 
 ### 🚀 Keep Learning• Keep Coding• Keep Growing
 ⭐ **Thanks for visiting my profile!**
-
-
-nkerut kkisan katkatr sldvj'jfwjnnd;lDSKJF;ASDKFJIEFPEIUJDCNDDCNCNSIJWNFJFFIOHEHAKLVJ\LCJIDSJFOVHOIS;cOFD;JBJ;OIJOJAWVklbnojvoijervle;nv
-.mcv;vhhqaefiao'fasda
