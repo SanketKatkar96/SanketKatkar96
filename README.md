@@ -34,7 +34,7 @@ Currently improving my programming skills and exploring modern technologies
 * 📧 Email:  [sanketkatkar001@gmail.com] 
 * 📸 Instagram:  @sanket_katkar__96k
 
-## 📊 GitHub        
+## 📊 GitHub  ===      
 
 ⭐ I’m continuously learning, building projects, and improving my coding skills
 
