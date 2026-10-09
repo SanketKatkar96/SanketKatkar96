@@ -35,9 +35,6 @@ Currently improving my programming skills and exploring modern technologies.
 * 📸 Instagram:  @sanket_katkar__96k
 
 ## 📊 GitHub     
-
 ⭐ I’m continuously learning, building projects, and improving my coding skills
-
 ### 🚀 Keep Learning• Keep Coding• Keep Growing
-
- ⭐ Thanks for visiting my profile!
+## ⭐ Thanks for visiting my profile!
