@@ -6,6 +6,7 @@ I’m a passionate learner interested in **software development, programming, an
 Currently improving my programming skills and exploring modern technologies.
 
 ## 🚀 Skills
+
 * 💙 C#
 * 🔵 C
 * 🟣 C++
@@ -13,12 +14,14 @@ Currently improving my programming skills and exploring modern technologies.
 * 🎨 CSS
 
  ## 🌱 Currently Learning
+ 
 * 📘 TypeScript
 * ☁️ Cloud Computing
 * 🧠 Data Structures & Algorithms
 * 🌐 Web Development
 
 ## 💻 What I'm Interested In
+
 * Software Development
 * Problem Solving
 * Backend Development
@@ -35,4 +38,5 @@ Currently improving my programming skills and exploring modern technologies.
 ⭐ I’m continuously learning, building projects, and improving my coding skills.
 
 ### 🚀 Keep Learning• Keep Coding• Keep Growing
+
 ## ⭐ Thanks for visiting my profile!
