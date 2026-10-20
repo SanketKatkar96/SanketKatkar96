@@ -1,4 +1,4 @@
-#👋 Hi, I'm Sanket Kisan Katkar
+##👋 Hi, I'm Sanket Kisan Katkar
 
 ##💻 **Passionate Software Developer | Problem Solver**
 
@@ -13,7 +13,7 @@ Currently improving my programming skills and exploring modern technologies.
 * 🐍 Python
 * 🎨 CSS
 
- ## 🌱 Currently Learning
+## 🌱 Currently Learning
  
 * 📘 TypeScript
 * ☁️ Cloud Computing
@@ -39,4 +39,4 @@ Currently improving my programming skills and exploring modern technologies.
 
 ## 🚀 Keep Learning• Keep Coding• Keep Growing
 
-# ⭐ Thanks for visiting my profile!
+## ⭐ Thanks for visiting my profile!
