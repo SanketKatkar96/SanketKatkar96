@@ -20,7 +20,7 @@ Currently improving my programming skills and exploring modern technologies.
 * 🧠 Data Structures & Algorithms
 * 🌐 Web Development
 
-## 💻 What I'm Interested In
+## 💻 What I'm Interested In :-
 
 * Software Development
 * Problem Solving
@@ -28,15 +28,17 @@ Currently improving my programming skills and exploring modern technologies.
 * Database Management
 * Learning New Technologies
 
-## 📫 Connect With Me   
+## 📫 Connect With Me  :- 
 
 * 💼 LinkedIn:  www.linkedin.com/in/sanket-katkar96
 * 📧 Email:  [sanketkatkar001@gmail.com] 
-* 📸 Instagram:  @sanket_katkar__96k
+* 📸 Instagram:  @sanket_katkar__96k .
 
 ## 📊 GitHub     
 ⭐ I’m continuously learning, building projects, and improving my coding skills.
 
-## 🚀 Keep Learning• Keep Coding• Keep Growing
+
+## 🚀 Keep Learning• Keep Coding• Keep Growing.
+
 
 ## ⭐ Thanks for visiting my profile!
